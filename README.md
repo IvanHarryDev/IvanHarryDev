@@ -12,8 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
-       alt="snake" /></a>
+  <a href="https://ivanlealdevmc.vercel.app/" target="_blank"><img src="/public/grid-snake.svg" alt="grid-snake" height="150" style="border-radius: 8px;"></a>
 </div>
 
 
