@@ -1,22 +1,9 @@
+# Hi, I'm Ivan 👋
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi, I'm Ivan</h1></summary>
-  </ul>
-</div>
-
-
-<!--- snake -->
 <div align="center">
   <a href="https://ivanlealdevmc.vercel.app/" target="_blank"><img src="/public/grid-snake.svg" alt="grid-snake" height="150" style="border-radius: 8px;"></a>
 </div>
 
-
-<!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">About Me.</h2></summary>
@@ -24,7 +11,6 @@
 </div>
 
 
-<!--Intro start-->
 - I am a developer specialized in creating files for Minecraft Java and Bedrock, committed to offering a unique and satisfying user experience. My projects reflect my dedication and passion for development, and you can see some of them in the projects section of my portfolio.
 
 - As a self-taught person, responsible and committed to my work, I constantly strive to learn new technologies and tools to improve my skills. My goal is to ensure that each project not only meets technical standards but also delivers an exceptional experience for users.
@@ -36,18 +22,13 @@
 - Software Developer, expert in designing, programming and maintaining efficient and robust applications. I transform ideas into technological solutions, ensuring quality and performance through testing and continuous optimization.
 
 - Don't hesitate to drop me a **👋** on Discord –  [jeerrryy](https://discord.com/users/jeerrryy) my username!
-<!--Intro end-->
-    
-<!--- stats (end) -->
 
 
-<!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,azure,css,html,js,ts,threejs,tailwind,react,py,cpp,c,cs,bootstrap,unity,idea,ps,java,maven,nodejs,npm,figma,github,vercel,linux,vscode,visualstudio,arduino,autocad,bash,blender,cloudflare,powershell,electron,windows,gmail&perline=14" />
@@ -55,22 +36,15 @@
 </p>
 
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
 </div>
 
-<!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/ivan-leal-933411242/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a> 
 <a href="https://ivanlealdevmc.vercel.app/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
 <a href="https://discord.com/users/jeerrryy" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
 </p>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
