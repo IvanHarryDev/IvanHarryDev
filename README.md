@@ -19,23 +19,15 @@
 - Don't hesitate to drop me a **👋** on Discord –  [jeerrryy](https://discord.com/users/jeerrryy) my username!
 
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+## 🛠️ Tech Stack
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,azure,css,html,js,ts,threejs,tailwind,react,py,cpp,c,cs,bootstrap,unity,idea,ps,java,maven,nodejs,npm,figma,github,vercel,linux,vscode,visualstudio,arduino,autocad,bash,blender,cloudflare,powershell,electron,windows,gmail&perline=14" />
   </a>
 </p>
 
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+## Connect With Me🤝
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ivan-leal-933411242/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a> 
