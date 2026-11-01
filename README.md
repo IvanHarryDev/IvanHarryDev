@@ -4,12 +4,7 @@
   <a href="https://ivanlealdevmc.vercel.app/" target="_blank"><img src="/public/grid-snake.svg" alt="grid-snake" height="150" style="border-radius: 8px;"></a>
 </div>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">About Me.</h2></summary>
-  </ul>
-</div>
-
+## About Me
 
 - I am a developer specialized in creating files for Minecraft Java and Bedrock, committed to offering a unique and satisfying user experience. My projects reflect my dedication and passion for development, and you can see some of them in the projects section of my portfolio.
 
