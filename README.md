@@ -30,8 +30,8 @@
 ## Connect With Me🤝
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ivan-leal-933411242/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a> 
-<a href="https://ivanlealdevmc.vercel.app/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-<a href="https://discord.com/users/jeerrryy" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-leal-933411242/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=github-pages&logoColor=white)](https://ivanlealdevmc.vercel.app/)
+  [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harrysince1878@gmail.com)
+  [![Discord](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/jeerrryy)
 </p>
