@@ -21,9 +21,7 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 ## Connect With Me🤝
 
