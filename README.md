@@ -21,7 +21,11 @@
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,gradle,maven,js,ts,electron,c,cs,cpp,dotnet,bootstrap,py,bash,powershell,debian,linux,mysql,mongodb,nginx,git,github,vscode,visualstudio,idea,arduino,autocad,blender,unity,aws,azure,html,css,tailwind,react,nodejs&theme=light)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,gradle,maven,js,ts,electron,c,cs,cpp,dotnet,bootstrap,py,bash,powershell,debian,linux,mysql,mongodb,nginx,git,github,vscode,visualstudio,idea,arduino,autocad,blender,unity,aws,azure,html,css,tailwind,react,nodejs&theme=light&perline=7" alt="My Skills" />
+  </a>
+</p>
 
 ## Connect With Me🤝
 
