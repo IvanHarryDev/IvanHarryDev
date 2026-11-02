@@ -29,9 +29,7 @@
 
 ## Connect With Me🤝
 
-<p align="center">
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-leal-933411242/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=github-pages&logoColor=white)](https://ivanlealdevmc.vercel.app/)
   [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harrysince1878@gmail.com)
   [![Discord](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/jeerrryy)
-</p>
